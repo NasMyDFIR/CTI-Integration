@@ -1,8 +1,8 @@
-# CTI Integration Lab
+# CTI Integration Project
 
 ## Objective
 
-To deploy and configure an OpenCTI server integrated with the OTX AlienVault threat intelligence feed to centralize, manage, and correlate indicators of compromise—such as IP addresses, domains, and file hashes—enhancing the detection and analysis of potential threats within a SOC environment.
+To deploy and configure an OpenCTI server integrated with the OTX AlienVault threat intelligence feed to centralize, manage, and correlate indicators of compromise—such as IP addresses, domains, and file hashes - enhancing the detection and analysis of potential threats within a SOC environment.
 
 
 ### Skills Learned
@@ -205,21 +205,73 @@ You now have:
 ---
 
 <div>
-    <img src="https://i.imgur.com/NMvVGLQ.png" />
+    <img src="https://imgur.com/mPdOxzW.png" />
 </div>
 
-*Ref 1: OpenCTI Homepage*
+*Ref 1: Environment Variable Snapshot*
 
 <div>
     <img src="https://i.imgur.com/zxQr2n7.png" />
 </div>
 
-*Ref 1: OpenCTI Github Repository*
+*Ref 2: OpenCTI Github Repository*
 
-drag & drop screenshots here or use imgur and reference them using imgsrc
+<div>
+    <img src="https://i.imgur.com/qec3fjN.png" />
+</div>
 
-Every screenshot should have some text explaining what the screenshot is about.
+*Ref 3: Docker compose file of Splunk and Alienvault configs*
 
-Example below.
-<a href="https://imgur.com/zxQr2n7"><img src="https://i.imgur.com/zxQr2n7.png" title="source: imgur.com" /></a>
-*Ref 1: Network Diagram*
+<div>
+    <img src="https://i.imgur.com/NMvVGLQ.png" />
+</div>
+
+*Ref 4: OpenCTI Homepage*
+
+<div>
+    <img src="https://i.imgur.com/M8aj29C.png" />
+</div>
+
+*Ref 5: Screenshot of successful integration with OTX Alienvault*
+
+<div>
+    <img src="https://i.imgur.com/ozhlHwj.png" />
+</div>
+
+*Ref 6: Splunk Connector - OpenCTI Github Repository*
+
+<div>
+    <img src="https://i.imgur.com/PBEvWUJ.png" />
+</div>
+
+*Ref 7: Splunk Connector Fields - OpenCTI Github Repository*
+
+<div>
+    <img src="https://i.imgur.com/MN1Rdye.png" />
+</div>
+
+*Ref 8: Splunk Navigation (Token and lookup creation)*
+
+<div>
+    <img src="https://i.imgur.com/3kY0MqS.png" />
+</div>
+
+*Ref 9: Splunk Token Creation*
+
+<div>
+    <img src="https://i.imgur.com/zL9bKzI.png" />
+</div>
+
+*Ref 10: Splunk lookup Creation*
+
+<div>
+    <img src="https://i.imgur.com/9QVL5Mz.png" />
+</div>
+
+*Ref 11: Splunk Query Test*
+
+<div>
+    <img src="https://i.imgur.com/5MRxCxc.png" />
+</div>
+
+*Ref 12: CSV feed cretion*
