@@ -205,15 +205,21 @@ You now have:
 ---
 
 <div>
-    <img src=https://i.imgur.com/NMvVGLQ.png" />
+    <img src="https://i.imgur.com/NMvVGLQ.png" />
 </div>
 
 *Ref 1: OpenCTI Homepage*
+
+<div>
+    <img src="https://i.imgur.com/zxQr2n7.png" />
+</div>
+
+*Ref 1: OpenCTI Github Repository*
 
 drag & drop screenshots here or use imgur and reference them using imgsrc
 
 Every screenshot should have some text explaining what the screenshot is about.
 
 Example below.
-
+<a href="https://imgur.com/zxQr2n7"><img src="https://i.imgur.com/zxQr2n7.png" title="source: imgur.com" /></a>
 *Ref 1: Network Diagram*
