@@ -23,7 +23,7 @@ To deploy and configure an OpenCTI server integrated with the OTX AlienVault thr
 
 ---
 
-## ⚙️ Project Implementation Steps
+### ⚙️ Project Implementation Steps
 
 ### **1. Set Up Virtual Machines**
 
